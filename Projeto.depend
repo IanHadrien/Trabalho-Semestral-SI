@@ -1,0 +1,124 @@
+# depslib dependency file v1.0
+1623412217 source:c:\users\ianha\onedrive\햞ea de trabalho\projetos cb\projetoteste\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<windows.h>
+	"Interface.h"
+	"Cadastros.h"
+	"Rotinas.h"
+	"Relatorios.h"
+	"EntradaDados.h"
+
+1623323096 c:\users\ianha\onedrive\햞ea de trabalho\projetos cb\projetoteste\interface.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<windows.h>
+
+1623327534 source:c:\users\ianha\onedrive\햞ea de trabalho\projetos cb\projetoteste\interface.c
+	<locale.h>
+	"Interface.h"
+
+1622596766 source:c:\users\ianha\onedrive\햞ea de trabalho\projetos cb\projetoteste\cadastrocliente.c
+	"CadastroCliente.h"
+	"Interface.h"
+
+1622594171 c:\users\ianha\onedrive\햞ea de trabalho\projetos cb\projetoteste\cadastrocliente.h
+	<stdio.h>
+
+1622460456 c:\users\ianha\onedrive\햞ea de trabalho\projetos cb\projetoteste\rotinas.h
+	<stdio.h>
+
+1623412075 source:c:\users\ianha\onedrive\햞ea de trabalho\projetos cb\projetoteste\rotinas.c
+	"Rotinas.h"
+	"Interface.h"
+
+1622546861 c:\users\ianha\onedrive\햞ea de trabalho\projetos cb\projetoteste\relatorios.h
+
+1623412230 source:c:\users\ianha\onedrive\햞ea de trabalho\projetos cb\projetoteste\relatorios.c
+	"Relatorios.h"
+	"Interface.h"
+
+1623412827 source:c:\users\ianha\onedrive\햞ea de trabalho\projetos cb\projetoteste\cadastros.c
+	"Cadastros.h"
+	"Interface.h"
+	"EntradaDados.h"
+
+1623245471 c:\users\ianha\onedrive\햞ea de trabalho\projetos cb\projetoteste\cadastros.h
+	<stdio.h>
+
+1622826945 c:\users\ianha\onedrive\햞ea de trabalho\projetos cb\projetoteste\entradadados.h
+
+1623064891 source:c:\users\ianha\onedrive\햞ea de trabalho\projetos cb\projetoteste\entradadados.c
+	"Interface.h"
+
+1624623038 source:c:\users\ianha\onedrive\햞ea de trabalho\trabalho_semestral\cadastros.c
+	"Cadastros.h"
+	"Clientes.h"
+	"Interface.h"
+	"EntradaDados.h"
+
+1624623017 c:\users\ianha\onedrive\햞ea de trabalho\trabalho_semestral\cadastros.h
+	<stdio.h>
+
+1623323096 c:\users\ianha\onedrive\햞ea de trabalho\trabalho_semestral\interface.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<windows.h>
+
+1622826945 c:\users\ianha\onedrive\햞ea de trabalho\trabalho_semestral\entradadados.h
+
+1623064891 source:c:\users\ianha\onedrive\햞ea de trabalho\trabalho_semestral\entradadados.c
+	"Interface.h"
+
+1623327534 source:c:\users\ianha\onedrive\햞ea de trabalho\trabalho_semestral\interface.c
+	<locale.h>
+	"Interface.h"
+
+1624622945 source:c:\users\ianha\onedrive\햞ea de trabalho\trabalho_semestral\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<windows.h>
+	"Interface.h"
+	"Clientes.h"
+	"Pecas.h"
+	"Rotinas.h"
+	"Relatorios.h"
+	"EntradaDados.h"
+
+1622460456 c:\users\ianha\onedrive\햞ea de trabalho\trabalho_semestral\rotinas.h
+	<stdio.h>
+
+1622546861 c:\users\ianha\onedrive\햞ea de trabalho\trabalho_semestral\relatorios.h
+
+1623413509 source:c:\users\ianha\onedrive\햞ea de trabalho\trabalho_semestral\relatorios.c
+	"Relatorios.h"
+	"Interface.h"
+
+1623412075 source:c:\users\ianha\onedrive\햞ea de trabalho\trabalho_semestral\rotinas.c
+	"Rotinas.h"
+	"Interface.h"
+
+1625068440 source:c:\users\ianha\onedrive\햞ea de trabalho\trabalho_semestral\clientes.c
+	"Clientes.h"
+	"Interface.h"
+	"EntradaDados.h"
+
+1624533310 c:\users\ianha\onedrive\햞ea de trabalho\trabalho_semestral\clientes.h
+
+1624622834 c:\users\ianha\onedrive\햞ea de trabalho\trabalho_semestral\pecas.h
+	<stdio.h>
+
+1625068376 source:c:\users\ianha\onedrive\햞ea de trabalho\trabalho_semestral\pecas.c
+	"Pecas.h"
+	"Clientes.h"
+	"Interface.h"
+	"EntradaDados.h"
+
